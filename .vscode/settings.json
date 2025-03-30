@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "unity.h": "c",
+        "unity_internals.h": "c",
+        "unity_config.h": "c",
+        "setjmp.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
